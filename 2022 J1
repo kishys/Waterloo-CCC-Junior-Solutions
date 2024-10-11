@@ -1,0 +1,14 @@
+#CCC 2022 Junior 1
+#Cupcake Party
+
+a = int(input(""))
+b = int(input(""))
+
+large = a*8
+small = b*3
+
+total = large + small
+
+result = total - 28
+
+print(result)
