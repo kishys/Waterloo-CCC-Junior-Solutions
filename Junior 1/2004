@@ -1,0 +1,13 @@
+#CCC 2004 Junior 1
+#Squares
+
+import math
+
+tiles = int(input())
+
+while math.sqrt(tiles) == float:
+    tiles = tiles - 1
+
+square = math.sqrt(tiles)
+
+print(f"The largest square has side length {int(square)}.")
