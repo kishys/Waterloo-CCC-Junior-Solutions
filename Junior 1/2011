@@ -1,7 +1,6 @@
 #CCC 2011 Junior 1
 #Which Alien?
 
-
 antennae = int(input())
 eyes = int(input())
 
