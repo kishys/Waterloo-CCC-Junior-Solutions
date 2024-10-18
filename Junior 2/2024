@@ -1,3 +1,7 @@
+#CCC 2024 Junior 2
+#Dusa And The Yobis
+
+
 dusa=int(input())
 a=1
 while a != dusa:
@@ -8,3 +12,4 @@ while a != dusa:
 	elif dusa <= yobis:
 		print(dusa)
 		break
+
