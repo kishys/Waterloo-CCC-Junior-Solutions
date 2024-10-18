@@ -12,4 +12,3 @@ while a != dusa:
 	elif dusa <= yobis:
 		print(dusa)
 		break
-
