@@ -5,7 +5,6 @@
 thenumber = int(input())
 
 """
-
 All Posibilities
 
 10 	- (5,5)
