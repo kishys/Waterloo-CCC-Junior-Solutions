@@ -1,7 +1,6 @@
 #CCC 2020 Junior 1
 #Dog Treats
 
-
 a = int(input(""))
 b = int(input(""))
 c = int(input(""))
