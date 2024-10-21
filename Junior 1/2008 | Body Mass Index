@@ -5,7 +5,6 @@
 weight = float(input())
 height = float(input())
 
-
 doubleheight = height**2
 
 bmi = weight / doubleheight
