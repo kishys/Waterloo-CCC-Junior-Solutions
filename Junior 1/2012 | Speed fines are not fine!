@@ -1,7 +1,6 @@
 #CCC 2012 Junior 1
 #Speed fines are not fine!
 
-
 limit = int(input())
 carspeed = int(input())
 
