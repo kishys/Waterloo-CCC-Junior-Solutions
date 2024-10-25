@@ -1,7 +1,6 @@
 #CCC 2008 Junior 1
 #Body Mass Index
 
-
 weight = float(input())
 height = float(input())
 
