@@ -25,7 +25,6 @@ total_cost_B = daytime_cost_B + evening_cost_B + weekend_cost_B
 print(f"Plan A costs {total_cost_A:.2f}")
 print(f"Plan B costs {total_cost_B:.2f}")
 
-
 if total_cost_A < total_cost_B:
     print("Plan A is cheapest.")
 elif total_cost_B < total_cost_A:
