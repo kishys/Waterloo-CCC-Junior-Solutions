@@ -1,2 +1,26 @@
 #CCC 2001 Junior 1
 #Dressing Up
+
+star = int(input(""))
+
+midrow = "*" * (star * 2)
+
+
+scount = 1
+spcount = (star * 2) - 2
+
+for i in range(star // 2):
+    print("*" * scount + " " * spcount + "*" * scount)
+    scount += 2
+    spcount -= 4
+
+print(midrow)
+
+
+scount = (star // 2) * 2 - 1
+spcount = 4
+
+for i in range(star // 2):
+    print("*" * scount + " " * spcount + "*" * scount)
+    scount -= 2
+    spcount += 4
